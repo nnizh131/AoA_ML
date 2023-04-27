@@ -1,0 +1,1 @@
+{'input_9': [1, 0], 'conv2d_8': [1, 0], 'batch_normalization_8': [1, 0], 'activation_8': [1, 0], 'max_pooling2d_8': [1, 0], 'reshape_8': [1, 0], 'dense_26': [1, 0], 'dense_27': [2, 0], 'dense_28': [2, 0], 'dense_29': [0, 0]}

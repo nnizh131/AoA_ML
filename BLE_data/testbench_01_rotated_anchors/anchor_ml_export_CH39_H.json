@@ -1,0 +1,5 @@
+[
+{"anchor": 1, "x_anchor": 57.90, "y_anchor": 43.30, "z_anchor": 2.50, "az_anchor": 130.00, "el_anchor": 0.00, "reference_power": -30.8},
+{"anchor": 2, "x_anchor": 57.90, "y_anchor": 50.00, "z_anchor": 2.50, "az_anchor": 220.00, "el_anchor": 0.00, "reference_power": -30.8},
+{"anchor": 3, "x_anchor": 44.30, "y_anchor": 50.00, "z_anchor": 2.50, "az_anchor": 310.00, "el_anchor": 0.00, "reference_power": -30.8},
+{"anchor": 4, "x_anchor": 44.30, "y_anchor": 43.30, "z_anchor": 2.50, "az_anchor": 40.00, "el_anchor": 0.00, "reference_power": -30.8}]
